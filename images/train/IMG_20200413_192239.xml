@@ -1,0 +1,26 @@
+<annotation>
+	<folder>model_proj</folder>
+	<filename>IMG_20200413_192239.jpg</filename>
+	<path>C:\Users\nitin\Desktop\python\model_proj\IMG_20200413_192239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2224</width>
+		<height>1688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>760</xmin>
+			<ymin>250</ymin>
+			<xmax>1618</xmax>
+			<ymax>1091</ymax>
+		</bndbox>
+	</object>
+</annotation>

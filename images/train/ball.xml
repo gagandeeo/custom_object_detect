@@ -1,0 +1,26 @@
+<annotation>
+	<folder>model_proj</folder>
+	<filename>ball.jpg</filename>
+	<path>C:\Users\nitin\Desktop\python\model_proj\ball.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1616</width>
+		<height>1625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>183</ymin>
+			<xmax>1197</xmax>
+			<ymax>1147</ymax>
+		</bndbox>
+	</object>
+</annotation>
